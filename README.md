@@ -1,8 +1,8 @@
 🆔 Hi, there👋 
 ----
-I'm YoungHan LEE 🇰🇷  
-I'm attending 🏫Pusan National University, shopomore  
-My major is in 💻Computer Science  
+I'm __YoungHan LEE__ 🇰🇷  
+I'm attending __🏫Pusan National University__, shopomore  
+My major is in __💻Computer Science__  
 
 🛠 Tech Stack  
 ----
