@@ -1,9 +1,9 @@
 Intro  
 ----
-👋Hi there👋  
-👀 I'm YoungHan LEE  
-🏫 I'm attending Pusan National University, shopomore  
-💻 My major is in Computer Science  
+Hi there👋  
+I'm YoungHan LEE  
+I'm attending 🏫Pusan National University, shopomore  
+My major is in 💻Computer Science  
 
 🛠 Tech Stack  
 ----
