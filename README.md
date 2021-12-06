@@ -1,7 +1,11 @@
-- 👋 My name is Young_Han LEE (🇰🇷)
-- :location
-- 🏫 
-- 👀 I’m interested in ...
+Intro
+👋Hi there👋
+👀 I'm YoungHan LEE
+🏫 I'm attending Pusan National University(Sophomore)
+💻 My major is in Computer Science
+
+🛠 Tech Stack
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
