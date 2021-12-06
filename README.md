@@ -6,10 +6,8 @@ My major is in 💻Computer Science
 
 🛠 Tech Stack  
 ----
-#java icon
 <img src="https://img.shields.io/badge/Java-FF160B?style=for-the-badge&logo=Java&logoColor=Black"/>
 
-#python icon
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 <!---
