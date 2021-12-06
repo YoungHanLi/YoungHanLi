@@ -6,10 +6,7 @@ My major is in 💻Computer Science
 
 🛠 Tech Stack  
 ----
-
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#007396
 
 <!---
 YoungHanLi/YoungHanLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
