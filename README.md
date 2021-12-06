@@ -1,8 +1,9 @@
 🆔 Hi, there👋 
 ----
 I'm __YoungHan LEE__ 🇰🇷  
-I'm attending __🏫Pusan National University__, shopomore  
+Attending __🏫Pusan National University__, shopomore  
 My major is in __💻Computer Science__  
+I am definitely a 🍏Apple fanatic
    
 🛠 Tech Stack  
 ----
