@@ -19,7 +19,7 @@ I am definitely a 🍏Apple fanatic
 
 ☎️Contact me
 ----
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yong9908@pusan.ac.kr)(mailto:snugyun01@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yong9908@pusan.ac.kr)
 <!---
 YoungHanLi/YoungHanLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
