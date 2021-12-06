@@ -12,6 +12,10 @@ My major is in 💻Computer Science
 
 🔧 IDE  
 ----
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Atom-81B441?style=for-the-badge&logo=Atom&logoColor=white">
+
+jupyter
 
 <!---
 YoungHanLi/YoungHanLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
