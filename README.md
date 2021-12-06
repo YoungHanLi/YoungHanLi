@@ -22,6 +22,9 @@ I am definitely a 🍏Apple fanatic
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yong9908@pusan.ac.kr)
 <a href="https://www.facebook.com/yong9908" target="_blank"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/lee0han"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&&logoColor=white&link=https://www.instagram.com/lee0han"/></a>
+
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 <!---
 YoungHanLi/YoungHanLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
