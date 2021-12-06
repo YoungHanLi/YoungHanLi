@@ -1,10 +1,12 @@
 Intro  
+----
 👋Hi there👋  
 👀 I'm YoungHan LEE  
 🏫 I'm attending Pusan National University, shopomore  
 💻 My major is in Computer Science  
 
 🛠 Tech Stack  
+----
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
