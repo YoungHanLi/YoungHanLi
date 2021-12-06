@@ -6,7 +6,7 @@ My major is in 💻Computer Science
 
 🛠 Tech Stack  
 ----
-<img src="https://img.shields.io/badge/Java-White?style=plastic&logo=Java&logoColor=FF160B"/>
+<img src="https://img.shields.io/badge/Java-White?style=flat&logo=Java&logoColor=FF160B"/>
 
 <!---
 YoungHanLi/YoungHanLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
