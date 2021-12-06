@@ -1,6 +1,5 @@
-🆔 Intro  
+🆔 Hi, there👋 
 ----
-Hi, there👋  
 I'm YoungHan LEE 🇰🇷  
 I'm attending 🏫Pusan National University, shopomore  
 My major is in 💻Computer Science  
