@@ -1,7 +1,6 @@
-🆔 Hi, there👋 
+__YoungHan LEE__
 ----
-I'm __YoungHan LEE__ 🇰🇷  
-Attending __🏫Pusan National University__, shopomore  
+__🏫Pusan National University__, shopomore  
 My major is in __💻Computer Science__  
 I am definitely a 🍏Apple fanatic
    
@@ -25,6 +24,8 @@ I am definitely a 🍏Apple fanatic
 
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungHanLi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungHanLi&layout=compact)]
+
 <!---
 YoungHanLi/YoungHanLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
