@@ -10,7 +10,9 @@ I am definitely a 🍏Apple fanatic
    
 🔧 IDE  
 ----
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/Atom-81B441?style=for-the-badge&logo=Atom&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Atom-81B441?style=for-the-badge&logo=Atom&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
    
 ✏️Statistic
 ----
