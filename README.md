@@ -6,7 +6,7 @@ I am definitely a 🍏Apple fanatic
    
 🛠 Tech Stack  
 ----
-<img src="https://img.shields.io/badge/c/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Java&logoColor=Black"/> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-3776AB?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/c/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Java&logoColor=Black"/> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
    
 🔧 IDE  
 ----
