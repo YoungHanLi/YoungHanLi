@@ -1,6 +1,6 @@
 __YoungHan LEE__
 ----
-__🏫Pusan National University__, shopomore  
+__🏫Pusan National University__, Junior
 My major is in __💻Computer Science__  
 I am definitely a 🍏Apple fanatic
    
