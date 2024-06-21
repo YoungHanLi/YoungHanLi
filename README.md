@@ -1,8 +1,8 @@
 __YoungHan LEE__
 ----
-__🏫Pusan National University__, Junior  
-My major is in __💻Computer Science__  
-I am definitely a 🍏Apple fanatic
+__🏫Pusan National University__, 
+💻Computer Science (2018 ~ 2024)
+국가직 공무원-전산개발(2024 ~ )
    
 🛠 Tech Stack  
 ----
