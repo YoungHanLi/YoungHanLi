@@ -1,9 +1,8 @@
 __YoungHan LEE__
 ----
-__🏫Pusan National University__,  
-💻CS(2018 ~ 2024)  
-국가직공무원-전산개발(2024 ~ ing)
-   
+__🏫Pusan National University__,💻CS(2018 ~ 2024)  
+국세청,국가직공무원,전산개발(2024 ~ ing)  
+
 🛠 Tech Stack  
 ----
 <img src="https://img.shields.io/badge/c/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Java&logoColor=Black"/> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
