@@ -1,6 +1,6 @@
 __YoungHan LEE__
 ----
-__🏫Pusan National University__,
+__🏫Pusan National University__,  
 💻CS(2018 ~ 2024)  
 국가직공무원-전산개발(2024 ~ ing)
    
