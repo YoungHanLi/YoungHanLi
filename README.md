@@ -1,7 +1,7 @@
 __YoungHan LEE__
 ----
 __🏫Pusan National University__ CS(2018 ~ 2024)  
-💼국민권익위원회, 세종(2024 ~ ing)  
+💼국민권익위원회 Anti-corruption and Civil Rights Commission, 세종(2024 ~ ing)  
 
 🛠 Tech Stack  
 ----
